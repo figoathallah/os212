@@ -3,3 +3,5 @@ REV06 Wed 07 Jul 2021 20:15:07 WIB
 #ZCZC WEEK# MINUTES LogCode Description
 ZCZC W00 00 L00 start of the course let's goooooooooooo
 ZCZC W00 30 L09 Week 00 Assignment #1-4 ✔
+ZCZC W00 25 L80 Watched Episode 9 of Uramichi Onii-san
+ZCZC W00 25 L80 Watched Episode 19 of To Your Eternity
