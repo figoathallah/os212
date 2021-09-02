@@ -5,3 +5,6 @@ ZCZC W00 00 L00 start of the course let's goooooooooooo
 ZCZC W00 30 L09 Week 00 Assignment #1-4 ✔
 ZCZC W00 25 L80 Watched Episode 9 of Uramichi Onii-san
 ZCZC W00 25 L80 Watched Episode 19 of To Your Eternity
+ZCZC W00 25 L80 Completed To Your Eternity, 7.5/10
+ZCZC W00 30 L09 Week 00 Assignment #5 - Watched and read through the basic Linux commands 
+ZCZC W00 480 L86 Visit cousin's home to make preparations for my grandmother's funeral
