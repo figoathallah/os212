@@ -8,7 +8,7 @@ disclaimer:
 keywords:    "jekyll, testing"
 navbarlinks:
 - navbar:    "Home"
-  link:      "/"
+  link:      "/README/"
 - navbar:    "Links"
   link:      "/LINKS/"
 - navbar:    "TarBall"
