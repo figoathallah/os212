@@ -10,6 +10,8 @@ navbarlinks:
   link:      "/"
 - navbar:    "Links"
   link:      "/LINKS/"
+- navbar:    "My Log"
+  link:      "/TXT/mylog.txt/
 - navbar:    "TarBall"
   link:      "/template.tar.bz2"
 - navbar:    "GitHub"
