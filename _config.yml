@@ -1,8 +1,7 @@
-version:     "0018b--03-Aug-2021"
+version:     "0018b--12-Sep-2021"
 copyright:   "2021-2021"
 description:
-  This is a
-  GitHub Page Template
+  Hello world!
 disclaimer:
   I have spoken.
 keywords:    "jekyll, testing"
@@ -17,6 +16,8 @@ navbarlinks:
   link:      "https://github.com/figoathallah/"
 title:       "figoathallah's Github Page"
 lang:        "en-US"
+author:      "Figo Athallah"
+address:     "Cilandak"
 sitemap:     "true"
 markdown:    "kramdown"
 defaults:
