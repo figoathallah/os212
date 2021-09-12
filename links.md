@@ -4,18 +4,15 @@ permalink: /LINKS/
 
 # LINKS
 
-1. [One](https://en.wikipedia.org/wiki/1)<br>
-StarBucks ipsum dolor J.CO Do Not!
-McD ipsum dolor Wendy's Burger King.
-KFC urna libero, in purus hana masa, tempor hokben lorem.
+1. [Why Use CAT or GREP When you Can AWK?](https://www.youtube.com/watch?v=8q8DHmA9puw)<br>
+A very informative video showcasing simpler alternative commands that AWK is more efficient at.
 
-2. [Two](https://en.wikipedia.org/wiki/2)<br>
-Sweet roll lollipop tootsie roll cheesecake marshmallow macaroon chocolate bar biscuit candy.
-Donut chocolate cake sugar plum icing dragée pie.
-Chocolate marzipan jelly-o soufflé donut pudding apple pie jelly beans.
+2. [Sed - An Introduction and Tutorial](https://www.grymoire.com/Unix/Sed.html)<br>
+Helpful website that consists of a detailed and concise tutorial of sed. 
+All in one page!
 
-3. [Three](https://en.wikipedia.org/wiki/3)<br>
-Liquorice bonbon lemon drops marshmallow.
-Sweet roll gummies gummies jelly tiramisu chocolate fruitcake.
-Jelly chocolate jelly beans marzipan brownie bonbon muffin.
+3. [RegExr](https://regexr.com/)<br>
+Very useful website for RegEx practice.
+Comes with a cheatsheet, references, and thorough explanations to help you learn faster.
+
 
