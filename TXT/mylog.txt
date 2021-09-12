@@ -12,3 +12,11 @@ ZCZC W00 75 L09 Week 00 Assignment #5 - Watched videos of Bash, VIM editor and r
 ZCZC W00 120 L70 Wrote PBP essay
 ZCZC W00 240 L87 Made the fourth part of my summer 2021 song mashup
 ZCZC W00 60 L70 Coding practice for DDP 2
+ZCZC W01 30 L11 Week 01 Assignment #1 - Downloaded and set up VirtualBox, PuTTY, and winSCP
+ZCZC W01 60 L12 Week 01 Assignment #2 - downloading ISO to make Debian Guest from Scratch
+ZCZC W01 240 L12 Week 01 Assignment #2 - Set up new Debian Guest (DEB-INSTALL, guest01a.ova)  
+ZCZC W01 180 L14 Week 01 Assignment #4 - Added packages, created bash_profile, bash_aliases
+ZCZC W01 125 L15 Week 01 Assignment #5 - Created SSH key for GitHub, git_config utilization, git clone repository 
+ZCZC W01 120 L16 Week 01 Assignment #6 - Decorated my GitHub Pages page with template
+ZCZC W01 30 L08 Asking asdos for assignment related problems (mainly bash_profile)
+ 
