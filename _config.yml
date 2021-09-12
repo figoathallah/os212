@@ -8,10 +8,10 @@ keywords:    "jekyll, testing"
 navbarlinks:
 - navbar:    "Home"
   link:      "/"
+- navbar:    "MyLogs"
+  link:      "/TXT/mylog.txt"
 - navbar:    "Links"
   link:      "/LINKS/"
-- navbar:    "MyLogs"
-  link:      "/TXT/mylog.txt/
 - navbar:    "TarBall"
   link:      "/template.tar.bz2"
 - navbar:    "GitHub"
