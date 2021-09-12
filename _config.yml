@@ -10,7 +10,7 @@ navbarlinks:
   link:      "/"
 - navbar:    "Links"
   link:      "/LINKS/"
-- navbar:    "MyLog"
+- navbar:    "MyLogs"
   link:      "/TXT/mylog.txt/
 - navbar:    "TarBall"
   link:      "/template.tar.bz2"
