@@ -15,7 +15,7 @@ navbarlinks:
 - navbar:    "TarBall"
   link:      "/template.tar.bz2"
 - navbar:    "GitHub"
-  link:      "https://github.com/figoathallah/"
+  link:      "https://github.com/figoathallah/os212/"
 title:       "figoathallah's Github Page"
 lang:        "en-US"
 author:      "Figo Athallah"
