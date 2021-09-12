@@ -21,4 +21,5 @@ ZCZC W01 120 L16 Week 01 Assignment #6 - Decorated my GitHub Pages page with tem
 ZCZC W01 30 L08 Asking asdos for assignment related problems (mainly bash_profile)
 ZCZC W01 120 L18 Week 01 Assignment #8 - Read/watched more about regex, awk, sed and practiced on the VM
 ZCZC W01 5 L16 Week 01 Assignment #6 - Added helpful links to my GitHub Pages page about regex and everything else
+ZCZC W01 5 L15 Week 01 Assignment #5 - fixed git config for email (the numbers mean something?? wow)
  
