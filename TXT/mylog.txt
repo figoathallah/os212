@@ -22,4 +22,8 @@ ZCZC W01 30 L08 Asking asdos for assignment related problems (mainly bash_profil
 ZCZC W01 120 L18 Week 01 Assignment #8 - Read/watched more about regex, awk, sed and practiced on the VM
 ZCZC W01 5 L16 Week 01 Assignment #6 - Added helpful links to my GitHub Pages page about regex and everything else
 ZCZC W01 5 L15 Week 01 Assignment #5 - fixed git config for email (the numbers mean something?? wow)
- 
+ZCZC W02 120 L02 ZOOM OS synchronous class on Monday & Thursday
+ZCZC W02 145 L13 Week 02 Assignment #3 - watched pt 1 & 2 of cyber security by mr eli the computer guy (his opinions are very based)
+ZCZC W02 30 L09 Week 02 Assignment #4-8 - did everything regarding GPG keys, added mypubkey.txt in the TXT directory
+ZCZC W02 60 L20 Week 02 Asignment #10 - reviewed 10 of my peers' links (some are still empty... but most are helpful!)
+ZCZC W02 10 L09 Week 02 Assignment #11 - copied myscript.sh from Mr. RMS' GitHub and into my repository  
