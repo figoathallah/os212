@@ -25,5 +25,7 @@ ZCZC W01 5 L15 Week 01 Assignment #5 - fixed git config for email (the numbers m
 ZCZC W02 120 L02 ZOOM OS synchronous class on Monday & Thursday
 ZCZC W02 145 L13 Week 02 Assignment #3 - watched pt 1 & 2 of cyber security by mr eli the computer guy (his opinions are very based)
 ZCZC W02 30 L09 Week 02 Assignment #4-8 - did everything regarding GPG keys, added mypubkey.txt in the TXT directory
+ZCZC W02 60 L19 Week 02 Assignment #9 - updated links with helpful things related to this week that I watched/read
 ZCZC W02 60 L20 Week 02 Asignment #10 - reviewed 10 of my peers' links (some are still empty... but most are helpful!)
 ZCZC W02 10 L09 Week 02 Assignment #11 - copied myscript.sh from Mr. RMS' GitHub and into my repository  
+ZCZC W02 120 L26 GSGS and did exercises of the C programming language
