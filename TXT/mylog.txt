@@ -23,6 +23,7 @@ ZCZC W01 120 L18 Week 01 Assignment #8 - Read/watched more about regex, awk, sed
 ZCZC W01 5 L16 Week 01 Assignment #6 - Added helpful links to my GitHub Pages page about regex and everything else
 ZCZC W01 5 L15 Week 01 Assignment #5 - fixed git config for email (the numbers mean something?? wow)
 ZCZC W02 120 L02 ZOOM OS synchronous class on Monday & Thursday
+ZCZC W02 10 L11 Week 02 Assignment #1 - read OSC10 chapter 16 + 17
 ZCZC W02 145 L13 Week 02 Assignment #3 - watched pt 1 & 2 of cyber security by mr eli the computer guy (his opinions are very based)
 ZCZC W02 30 L09 Week 02 Assignment #4-8 - did everything regarding GPG keys, added mypubkey.txt in the TXT directory
 ZCZC W02 60 L19 Week 02 Assignment #9 - updated links with helpful things related to this week that I watched/read
