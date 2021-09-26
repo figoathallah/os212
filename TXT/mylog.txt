@@ -30,3 +30,10 @@ ZCZC W02 60 L19 Week 02 Assignment #9 - updated links with helpful things relate
 ZCZC W02 60 L20 Week 02 Asignment #10 - reviewed 10 of my peers' links (some are still empty... but most are helpful!)
 ZCZC W02 10 L09 Week 02 Assignment #11 - copied myscript.sh from Mr. RMS' GitHub and into my repository  
 ZCZC W02 120 L26 GSGS and did exercises of the C programming language
+ZCZC W03 180 L02 ZOOM OS synchronous class
+ZCZC W03 60 L11 Week 03 Assignment #1 - Read OSC10 chapter 13, 14 & 15
+ZCZC W03 60 L12 Week 03 Assignment #2 - Tried the FUSE + files demos in my VM
+ZCZC W03 30 L13 Week 03 Assignment #3 - Tried previous midterm problems
+ZCZC W03 5 L14 Week 03 Assignment #4 - checked bash_aliases
+ZCZC W03 120 L15 Week 05 Assignment #5 - created new virtual disk (this took longer than expected because I accidentally corrupted my repo T_T but it's fixed now :D) 
+ZCZC W03 45 L17 Week 05 Assignment #7 - reviewed peer links + updated myrank.txt
