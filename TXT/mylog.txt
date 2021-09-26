@@ -35,5 +35,7 @@ ZCZC W03 60 L11 Week 03 Assignment #1 - Read OSC10 chapter 13, 14 & 15
 ZCZC W03 60 L12 Week 03 Assignment #2 - Tried the FUSE + files demos in my VM
 ZCZC W03 30 L13 Week 03 Assignment #3 - Tried previous midterm problems
 ZCZC W03 5 L14 Week 03 Assignment #4 - checked bash_aliases
-ZCZC W03 120 L15 Week 05 Assignment #5 - created new virtual disk (this took longer than expected because I accidentally corrupted my repo T_T but it's fixed now :D) 
-ZCZC W03 45 L17 Week 05 Assignment #7 - reviewed peer links + updated myrank.txt
+ZCZC W03 140 L15 Week 03 Assignment #5 - created new virtual disk (this took longer than expected because I accidentally corrupted my repo T_T but it's fixed now :D) 
+ZCZC W03 60 L16 Week 03 Assignment #6 - updated links on page
+ZCZC W03 45 L17 Week 03 Assignment #7 - reviewed peer links + updated myrank.txt
+ZCZC W03 30 L18 Week 03 Assignment #8 - updated my log 
