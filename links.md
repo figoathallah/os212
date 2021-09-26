@@ -29,4 +29,10 @@ With a neat interface, a linear step-by-step explanation, a comment feature to s
 the site is perfect for beginners to sharpen their blade at.
 What are you waiting for? Just sign up and you're good to go.
 
+7. [The Linux File System... for Humans](https://www.youtube.com/watch?v=UFIoRLqhFpo)<br>
+Engineer Man saves you precious time by thoroughly explaining the Linux file system in an easy-to-digest manner.
+It only takes 12 minutes.
 
+8. [Building a FUSE File System](https://medium.com/@cris178/building-a-fuse-file-system-ee8f90fd0a2f)<br>
+Don't know where to start when tinkering with the FUSE file system? Don't worry!
+Cristian Reyes shares his experience on it and directs you to helpful resources to light your "fuse".
