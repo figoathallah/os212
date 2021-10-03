@@ -36,3 +36,14 @@ It only takes 12 minutes.
 8. [Building a FUSE File System](https://medium.com/@cris178/building-a-fuse-file-system-ee8f90fd0a2f)<br>
 Don't know where to start when tinkering with the FUSE file system? Don't worry!
 Cristian Reyes shares his experience on it and directs you to helpful resources to light your "fuse".
+
+9. [How to manage memory with malloc, calloc, realloc, and free in C](https://www.youtube.com/watch?v=lQP4X3odvHE)<br>
+Engineer Man is back again, thoroughly explaining the functions of everything surrounding memory allocation in a swift yet concise manner. Only 5 minutes!
+
+10. [Pointers in C Programming](https://www.guru99.com/c-pointers.html)<br>
+Barbara Thompson from Guru99 hands out beneficial explanations regarding pointers in the C programming language.
+From their types, their examples, and even their pros & cons, this site is a quick one-stop shop for anyone needing a entry "point" on learning about C pointers and addresses.
+
+11. [Little Endian and Big Endian](https://embetronicx.com/tutorials/p_language/c/little-endian-and-big-endian/)<br>
+In this article from EmbeTronicX, you'll understand a lot more about the concept of Little Endian and Big Endian and their implementation in C.
+You'll learn how to differentiate them, how to program them, how to determine what endian your system is using,  how to convert one endian to another, and which endian is better for your system.
