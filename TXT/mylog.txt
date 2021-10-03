@@ -1,4 +1,4 @@
-REV06 Wed 07 Jul 2021 20:15:07 WIB
+REV Sun 03 Okt 2021 22:15:17 WIB
 #https://osp4diss.vlsm.org/ETC/logCodes.txt
 #ZCZC WEEK# MINUTES LogCode Description
 ZCZC W00 00 L00 start of the course let's goooooooooooo
@@ -38,4 +38,16 @@ ZCZC W03 5 L14 Week 03 Assignment #4 - checked bash_aliases
 ZCZC W03 140 L15 Week 03 Assignment #5 - created new virtual disk (this took longer than expected because I accidentally corrupted my repo T_T but it's fixed now :D) 
 ZCZC W03 60 L16 Week 03 Assignment #6 - updated links on page
 ZCZC W03 45 L17 Week 03 Assignment #7 - reviewed peer links + updated myrank.txt
-ZCZC W03 30 L18 Week 03 Assignment #8 - updated my log 
+ZCZC W03 30 L18 Week 03 Assignment #8 - updated my log
+ZCZC W04 540 L80 Finished Squid Game. Sae-byeok deserves better
+ZCZC W04 180 L02 ZOOM OS synchronous class 
+ZCZC W04 20 L22 Quiz
+ZCZC W04 30 L28 submitted my ssh key to a Google Form in order to access OSP4DISS with ssh key
+ZCZC W04 10 L11 Week 04 Assignment #1 - Read OSC10 chapter 9
+ZCZC W04 240 L12 Week 04 Assignment #2 - Tried Demos about pointers in VM
+ZCZC W04 180 L13 Week 04 Assignment #3 - Tried previous midterm problems and comprehended the outputs
+ZCZC W04 5 L14 Week 04 Assignment #4 - installed package list 2
+ZCZC W04 30 L15 Week 04 Assignment #5 - extracted WEEK04.tar.bz2.asc and made WEEK04-TLPI.txt
+ZCZC W04 60 L16 Week 04 Assignment #6 - updated links on page
+ZCZC W04 30 L17 Week 04 Assignment #7 - reviewed peer links + updated myrank.txt
+ZCZC W04 30 L18 Week 04 Assignment #8 - updated my log
