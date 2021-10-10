@@ -47,3 +47,11 @@ From their types, their examples, and even their pros & cons, this site is a qui
 11. [Little Endian and Big Endian](https://embetronicx.com/tutorials/p_language/c/little-endian-and-big-endian/)<br>
 In this article from EmbeTronicX, you'll understand a lot more about the concept of Little Endian and Big Endian and their implementation in C.
 You'll learn how to differentiate them, how to program them, how to determine what endian your system is using,  how to convert one endian to another, and which endian is better for your system.
+
+12. [Page Replacement Algorithms](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/)<br>
+We all know how reliable GeeksForGeeks is, so it's no wonder that they made a very simple yet concise article about page replacements and page faults.
+The FIFO, LRU and optimal algorithm are explained thoroughly here so what are you waiting for? Read it!
+
+13. [Buddy System in Memory Management](https://www.youtube.com/watch?v=EBfJMVt_EWk)<br>
+Code with Aditi explains the buddy system memory allocation in just 7 minutes, complete with an example problem. Thanks, Buddy!
+ 
