@@ -55,3 +55,6 @@ The FIFO, LRU and optimal algorithm are explained thoroughly here so what are yo
 13. [Buddy System in Memory Management](https://www.youtube.com/watch?v=EBfJMVt_EWk)<br>
 Code with Aditi explains the buddy system memory allocation in just 7 minutes, complete with an example problem. Thanks, Buddy!
  
+14. [How to Use the "top" Command](https://www.howtogeek.com/668986/how-to-use-the-linux-top-command-and-understand-its-output/)<br>
+I used this HowToGeek article to better understand the functionalities of the "top" command for this week's Demo. It's... surprisingly easier than I thought.
+

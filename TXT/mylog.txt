@@ -1,4 +1,4 @@
-REV Sun 03 Okt 2021 22:15:17 WIB
+REV Sun 10 Okt 2021 22:45:34 WIB
 #https://osp4diss.vlsm.org/ETC/logCodes.txt
 #ZCZC WEEK# MINUTES LogCode Description
 ZCZC W00 00 L00 start of the course let's goooooooooooo
@@ -51,3 +51,12 @@ ZCZC W04 30 L15 Week 04 Assignment #5 - extracted WEEK04.tar.bz2.asc and made WE
 ZCZC W04 60 L16 Week 04 Assignment #6 - updated links on page
 ZCZC W04 30 L17 Week 04 Assignment #7 - reviewed peer links + updated myrank.txt
 ZCZC W04 30 L18 Week 04 Assignment #8 - updated my log
+ZCZC W05 20 L22 Quiz
+ZCZC W05 180 L02 ZOOM OS synchronous class
+ZCZC W05 10 L11 Week 05 Assignment #1 - Read OSC10 chapter 10
+ZCZC W05 150 L12 Week 05 Assignment #2 - Tried the "top" Demo + Memory Demos in VM
+ZCZC W05 180 L13 Week 05 Assignment #3 - Tried previous midterm problems about page faults and algorithms + addresses
+ZCZC W05 90 L14 Week 05 Assignment #4 - Ran VM with 199 MB memory, modified memory2.c and made WEEK05-MEMORY.txt 
+ZCZC W05 30 L15 Week 05 Assigment #5 - Updated links on page
+ZCZC W05 30 L17 Week 05 Assignment #7 - reviewed peer links + updated myrank.txt
+ZCZC W05 30 L18 Week 05 Assignment #8 - updated my log
