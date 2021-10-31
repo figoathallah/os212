@@ -58,3 +58,10 @@ Code with Aditi explains the buddy system memory allocation in just 7 minutes, c
 14. [How to Use the "top" Command](https://www.howtogeek.com/668986/how-to-use-the-linux-top-command-and-understand-its-output/)<br>
 I used this HowToGeek article to better understand the functionalities of the "top" command for this week's Demo. It's... surprisingly easier than I thought.
 
+15. [Difference Between Parent Process & Child Process](https://www.geeksforgeeks.org/difference-between-process-parent-process-and-child-process/)<br>
+Geeks for Geeks is always the reliable source to get your know-how on all things computer science, and this article about forking and how to differentiate a parent process with a child process is definitely beneficial.
+
+16. [Process Scheduling Explanation](https://www.youtube.com/watch?v=2h3eWaPx8SA)<br>
+Neso Academy is a highly reputable YouTube channel that actually made PSD & POK easier for me.
+So, this video about process scheduling really helped me out a lot to get a better understanding of this week's materials.
+
