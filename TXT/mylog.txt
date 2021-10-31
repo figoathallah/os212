@@ -60,3 +60,13 @@ ZCZC W05 90 L14 Week 05 Assignment #4 - Ran VM with 199 MB memory, modified memo
 ZCZC W05 30 L15 Week 05 Assigment #5 - Updated links on page
 ZCZC W05 30 L17 Week 05 Assignment #7 - reviewed peer links + updated myrank.txt
 ZCZC W05 30 L18 Week 05 Assignment #8 - updated my log
+ZCZC W06 75 L00 Watched OS Week06 Process and Concurrency videos as class replacement
+ZCZC W06 60 L02 ZOOM OS synchronous class
+ZCZC W06 20 L11 Week 06 Assignment #1 - Read OSC10 chapter 3 + 4
+ZCZC W06 120 L12 Week 06 Assignment #2 - Tried fork() demos in VM
+ZCZC W06 60 L13 Week 06 Assignment #3 - Tried previous midterm problems again to better understand addresses
+ZCZC W06 90 L14 Week 06 Assignment #4 - ran 000-README.txt and copied results to the RESULT folder
+ZCZC W06 30 L15 Week 06 Assignment #5 - updated links on page
+ZCZC W06 20 L17 Week 06 Assignment #7 - reviewed peer links + updated myrank.txt
+ZCZC W06 30 L18 Week 06 Assignment #8 - updated my log
+ZCZC W06 90 L64 Helped an SI friend about understanding past OS quizzes
