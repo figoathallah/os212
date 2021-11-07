@@ -70,3 +70,14 @@ ZCZC W06 30 L15 Week 06 Assignment #5 - updated links on page
 ZCZC W06 20 L17 Week 06 Assignment #7 - reviewed peer links + updated myrank.txt
 ZCZC W06 30 L18 Week 06 Assignment #8 - updated my log
 ZCZC W06 90 L64 Helped an SI friend about understanding past OS quizzes
+ZCZC W07 20 L22 Quiz
+ZCZC W07 180 L02 ZOOM OS synchronous class
+ZCZC W07 75 L00 Watched OS Week07 Thread Introduction + Semaphore Demos as additional class materials
+ZCZC W07 30 L11 Week 07 Assignment #1 - Read OSC10 chapter 6, 7, 8
+ZCZC W07 75 L12 Week 07 Assignment #2 - Tried mutex and semaphore demos in VM
+ZCZC W07 30 L13 Week 07 Assignment #3 - Tried previous midterm problems again to better understand it
+ZCZC W07 60 L14 Week 07 Assignment #4 - fetched WEEK07.tar.bz2.asc, accessed os1.cs.ui.ac.id to get all 3 REPORT.txt and copied them to RESULT folder
+ZCZC W07 20 L15 Week 07 Assignment #5 - updated links on page
+ZCZC W07 20 L17 Week 07 Assignment #7 - reviewed peer links + updated myrank.txt
+ZCZC W07 30 L18 Week 07 Assignment #8 - updated my log
+ZCZC W07 60 L06 Watched multiple videos of this week's materials explanations in preparation for quiz
