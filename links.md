@@ -65,3 +65,10 @@ Geeks for Geeks is always the reliable source to get your know-how on all things
 Neso Academy is a highly reputable YouTube channel that actually made PSD & POK easier for me.
 So, this video about process scheduling really helped me out a lot to get a better understanding of this week's materials.
 
+17. [Semantics of Semaphores](https://www.youtube.com/watch?v=ukM_zzrIeXs)<br>
+Youtuber Jacob Sorber gives a comprehensive explanation about the gist of semaphores for shared memory. 
+Complete with examples on C, this 13 minute video will definitely make you understand about semaphore a bit more. (semamore?)
+
+18. [How to Use C Mutex Lock Examples](https://www.thegeekstuff.com/2012/05/c-mutex-examples/)<br>
+This 4-part article by The Geek Stuff essentially breaks down everything you need to know about Linux threads. In part 4, it tackles the usage of Mutex for Thread Synchronization.
+Complete with examples, this article is a perfect starting point to better understand OS threads. 
