@@ -81,3 +81,15 @@ ZCZC W07 20 L15 Week 07 Assignment #5 - updated links on page
 ZCZC W07 20 L17 Week 07 Assignment #7 - reviewed peer links + updated myrank.txt
 ZCZC W07 30 L18 Week 07 Assignment #8 - updated my log
 ZCZC W07 60 L06 Watched multiple videos of this week's materials explanations in preparation for quiz
+ZCZC W08 20 L22 Quiz
+ZCZC W08 180 L02 ZOOM OS synchronous class
+ZCZC W08 100 L00 Watched OS Week08 videos of Scheduling Theory + Multilevel Scheduling Demo
+ZCZC W08 15 L11 Week 08 Assignment #1 - Read OSC10 chapter 5
+ZCZC W08 40 L12 Week 08 Assignment #2 - Tried more mutex and semaphore demos in VM
+ZCZC W08 30 L13 Week 08 Assignment #3 - Tried previous final term problems
+ZCZC W08 120 L14 Week 08 Assignment #4 - Linux from Scratch chapter 1-4. Some errors here and there but relatively easy to follow.
+ZCZC W08 240 L15 Week 08 Assignment #5 - LINUX FROM SCRATCH CHAPTER 5 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA NOT ENOUGH MEMORY SPACE FOR 3 ATTEMPTS but I managed to compile everything somehow. yay.
+ZCZC W08 40 L16 Week 08 Assignment #6 - updated links on page
+ZCZC W08 20 L17 Week 08 Assignment #7 - reviewed peer links + updated myrank.txt
+ZCZC W08 30 L18 Week 08 Assignment #8 - updated my log
+ZCZC W08 10 L03 git corrupt again. Managed to fix it quickly though. Hopefully that doesn't affect anything else...
