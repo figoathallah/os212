@@ -72,3 +72,10 @@ Complete with examples on C, this 13 minute video will definitely make you under
 18. [How to Use C Mutex Lock Examples](https://www.thegeekstuff.com/2012/05/c-mutex-examples/)<br>
 This 4-part article by The Geek Stuff essentially breaks down everything you need to know about Linux threads. In part 4, it tackles the usage of Mutex for Thread Synchronization.
 Complete with examples, this article is a perfect starting point to better understand OS threads. 
+
+19. [Pre-Emptive and Non Pre-Emptive Scheduling](https://www.youtube.com/watch?v=4DhFmL-6SDA)<br>
+Neso Academy explains the differences between pre-emptive and non-preemptive scheduling in CPU schedulers. 
+Breaking down which process falls under the four circumstances of CPU scheduling, this 18 minute informative video will surely make you understand CPU schedulers a lot more.
+
+20. [CPU Burst](http://cpuburst.com/)<br>
+This website has three tools that you can use to simulate demonstrations of operating systems concepts, such as a CPU burst predictor, a Gantt chart generator that shows how CPU scheduling works with every algorithm, and the Banker's algorithm.
