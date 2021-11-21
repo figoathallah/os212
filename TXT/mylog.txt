@@ -93,3 +93,13 @@ ZCZC W08 40 L16 Week 08 Assignment #6 - updated links on page
 ZCZC W08 20 L17 Week 08 Assignment #7 - reviewed peer links + updated myrank.txt
 ZCZC W08 30 L18 Week 08 Assignment #8 - updated my log
 ZCZC W08 10 L03 git corrupt again. Managed to fix it quickly though. Hopefully that doesn't affect anything else...
+ZCZC W09 20 L22 Quiz
+ZCZC W09 90 L02 ZOOM OS synchronous class
+ZCZC W09 60 L06 OS asynchronous study
+ZCZC W09 15 L11 Week 09 Assignment #1 - Read OSC10 chapter 11
+ZCZC W09 40 L12 Week 09 Assignment #2 - tried systemd and image demo in VM
+ZCZC W09 30 L13 Week 09 Assignment #3 - Tried previous final term problems
+ZCZC W09 240 L14 Week 09 Assignment #4 - Linux From Scratch chapter 6 & 7. NO ERRORS THIS TIME!!! YAY!!!!
+ZCZC W09 40 L15 Week 09 Assignment #5 - updated links on page
+ZCZC W09 20 L17 Week 09 Assignment #7 - reviewed peer links + updated myrank.txt
+ZCZC W09 30 L18 Week 09 Assignment #8 - updated my log
