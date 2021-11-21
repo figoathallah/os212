@@ -79,3 +79,11 @@ Breaking down which process falls under the four circumstances of CPU scheduling
 
 20. [CPU Burst](http://cpuburst.com/)<br>
 This website has three tools that you can use to simulate demonstrations of operating systems concepts, such as a CPU burst predictor, a Gantt chart generator that shows how CPU scheduling works with every algorithm, and the Banker's algorithm.
+
+21. [How to Use systemctl](https://www.digitalocean.com/community/tutorials/how-to-use-systemctl-to-manage-systemd-services-and-units)<br>
+Digital Ocean tells you all about the init system known as systemctl and how to master its commands so you can use it to manage systemd services and units. 
+Providing explanations to commands on this week's Demos, you'll be sure to learn a thing or two in this site.
+
+22. [Disk Scheduling - Javatpoint](https://www.javatpoint.com/os-disk-scheduling)<br>
+After comprehensive scouring of CPU scheduling and all it has to offer, we take a look at disk scheduling next to get both sides of the spectrum. 
+This series of articles from Javatpoint thoroughly explain the different kinds of algorithms that disk scheduling has in a brisk yet concise manner. 
